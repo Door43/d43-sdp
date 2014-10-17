@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[sdp:home|Door43 (sdp)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-sdp|d43-sdp repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-sdp/archive/master.zip|d43-sdp.zip]]
+
+**Recent Changes**
+{{changes>ns = sdp}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/sdp|Ethnologue data]]
+
